@@ -31,14 +31,14 @@ Build automation helps teams to:
 
 ### Common Build Automation Tools
 
-### General CI/CD
+#### General CI/CD
 
 - GitHub Actions
 - Jenkins
 - GitLab CI
 - Azure DevOps Pipelines
 
-### Language-Specific Build Tools
+#### Language-Specific Build Tools
 
 - Java: Maven, Gradle
 - JavaScript: npm, yarn
