@@ -90,7 +90,7 @@ Before you begin, make sure you have:
 6. Configure Jenkins
    - Install recommended plugins
 
-      ![alt text](images/image.png)
+      
       ![alt text](images/image-1.png)
    
    - Create your first admin user
