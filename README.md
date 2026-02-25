@@ -70,5 +70,3 @@ Build automation helps teams to:
 
 ## Projects
 1.[Install Jenkins on DigitalOceans](https://github.com/bigtony79/jenkins-docker-digitalocean.git)
-2. 
-3. 
