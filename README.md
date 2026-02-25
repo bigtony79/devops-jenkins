@@ -4,7 +4,7 @@ This repository contains all my work, notes, hands‑on exercises, and project f
 ## Notes
 <details>
 
-### <summary>Intro to Build Automation</summary>
+<summary>Intro to Build Automation</summary>
 Build automation is a **process that automatically compiles, packages, tests, and prepares software** so developers don’t have to do those steps manually. It’s a core part of modern DevOps and CI/CD pipelines.
 
 Build automation uses tools and scripts to automatically:
@@ -18,7 +18,7 @@ Build automation uses tools and scripts to automatically:
 
 It replaces manual commands with repeatable, automated tasks.
 
-## Why it matters
+### Why it matters
 
 Build automation helps teams to:
 
@@ -29,7 +29,7 @@ Build automation helps teams to:
 - Improve code quality
 - Support DevOps at scale
 
-## Common Build Automation Tools
+### Common Build Automation Tools
 
 ### General CI/CD
 
@@ -43,13 +43,5 @@ Build automation helps teams to:
 - Java: Maven, Gradle
 - JavaScript: npm, yarn
 - Python: pip, tox
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
 
 </details>
