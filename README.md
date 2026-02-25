@@ -47,3 +47,9 @@ Build automation helps teams to:
 - Python: pip, tox
 
 </details>
+
+<details>
+
+<summary>Introduction to Jenkins UI</summary>
+
+</details>
