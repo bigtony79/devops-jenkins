@@ -19,6 +19,7 @@ Build automation uses tools and scripts to automatically:
 It replaces manual commands with repeatable, automated tasks.
  ![alt text](images/Build-automation.png)
 
+
 ### Why it matters
 
 Build automation helps teams to:
