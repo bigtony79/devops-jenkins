@@ -79,6 +79,7 @@ Since Jenkins is running as a Docker container on the host droplet, we need to m
 <details>
  
 <summary>Freestyle to Pipeline jobs</summary>
+
 ## Freestyle jobs
 Freestyle jobs are simple, UI‑driven job types designed for executing single steps in the build or deployment process.  
 Examples include:  
