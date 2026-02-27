@@ -77,7 +77,7 @@ Since Jenkins is running as a Docker container on the host droplet, we need to m
 </details>
 
 <details>
-
+ 
 <summary>Freestyle to Pipeline jobs</summary>
 ## Freestyle jobs
 Freestyle jobs are simple, UI‑driven job types designed for executing single steps in the build or deployment process.  
@@ -98,7 +98,6 @@ Freestyle jobs have several drawbacks:
 To address these limitations, Jenkins introduced Pipeline jobs, which offer greater control, flexibility, and maintainability through script‑based configuration.
 
 </details>
-
 
 ## Projects
 1. [Install Jenkins on DigitalOceans](https://github.com/bigtony79/jenkins-docker-digitalocean.git)
