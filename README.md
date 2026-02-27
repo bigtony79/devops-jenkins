@@ -68,6 +68,14 @@ Build automation helps teams to:
 
 </details>
 
+<details>
+
+<summary>Docker with Jenkins</summary>
+
+Since Jenkins is running as a Docker container on the host droplet, we need to mount the host machine’s Docker runtime directory into the Jenkins container. This allows Jenkins to execute Docker commands (such as building and pushing images) directly on the host.
+
+</details>
+
 ## Projects
 1. [Install Jenkins on DigitalOceans](https://github.com/bigtony79/jenkins-docker-digitalocean.git)
 2. Create a CI Pipeline with Jenkinsfile (Freestyle, Pipeline, Multibranch Pipeline)
