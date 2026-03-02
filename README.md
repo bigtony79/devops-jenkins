@@ -490,10 +490,9 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
       }
     }
     ```
-    
-    ![image.png](attachment:227f7c4b-5ec1-4eb6-b6d2-777d6a01bdd7:image.png)
-    
-    ![image.png](attachment:810adddc-152e-46a4-b66d-882b2df6ba08:image.png)
+
+    ![alt text](images/image1.png)
+    ![alt text](images/image2.png)
     
 - **To allow multiple input selections (for example, deploy to 2 different systems)**
     
@@ -563,7 +562,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
     }
     ```
     
-    ![image.png](attachment:d76ccfd5-200c-400a-b45c-a21e617d3d46:image.png)
+  ![alt text](images/image3.png)
     
 - **Another common way to use input attribute is to assign it to the environment variable within the script block**
     
