@@ -561,8 +561,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
       }
     }
     ```
-    
-  ![alt text](images/image3.png)
+    ![alt text](images/image3.png)
     
 - **Another common way to use input attribute is to assign it to the environment variable within the script block**
     
