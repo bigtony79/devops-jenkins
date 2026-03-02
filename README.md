@@ -110,7 +110,8 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
 </details>
 <details>
  
-<summary>Jenkinsfile Syntax</summary>  
+<summary>Jenkinsfile Syntax</summary>
+
 - **Post attribute:**  
     - Execute some logic after all stages executed
     - For example, send an email after build is complete or failed
