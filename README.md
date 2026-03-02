@@ -150,7 +150,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
     ```
     
 - **Define conditionals for each stage**
-    - You can define when conditions
+    - You can define conditionals using "when" block
         
         ```jsx
         pipeline {
