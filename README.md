@@ -625,7 +625,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
     ```
 </details>  
 <details>
-<summary>Multibranch Pipeline</summary>
+<summary>Multibranch Pipeline</summary>  
 
  - In modern Git workflows, teams work on **feature**, **bugfix**, and **hotfix** branches instead of committing directly to `main`.
 - You want **fast feedback** (build + test) on every branch, and **deployment** to happen only from trusted branches like `main`.
