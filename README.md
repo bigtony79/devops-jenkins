@@ -623,6 +623,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
       }
     }
     ```
+</details>  
 <details>
 <summary>Multibranch Pipeline</summary>
 
@@ -631,7 +632,7 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
 </details>
 
 
-</details>
+
 
 ## Projects
 1. [Install Jenkins on DigitalOceans](https://github.com/bigtony79/jenkins-docker-digitalocean.git)
