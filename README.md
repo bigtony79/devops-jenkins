@@ -623,7 +623,12 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
       }
     }
     ```
+<details>
+<summary>Multibranch Pipeline</summary>
 
+
+ 
+</details>
 
 
 </details>
