@@ -654,4 +654,4 @@ Pipeline jobs use Jenkinsfiles, allowing you to:
 ## Projects
 1. [Install Jenkins on DigitalOcean](https://github.com/bigtony79/jenkins-docker-digitalocean.git)
 2. [Create a CI Pipeline with Jenkinsfile (Freestyle, Pipeline, Multibranch Pipeline)](https://github.com/bigtony79/jenkins-08-freesyle-pipeline-multibranch/tree/main)
-3. [Jenkins Shared Library]
+3. [Jenkins Shared Library](https://github.com/bigtony79/jenkins-08-shared-library)
