@@ -7,27 +7,6 @@ This repository contains all my work, notes, hands‑on exercises, and project f
 [Docker with Jenkins](notes/Introduction.md)
 [Freestyle to Pipeline jobs](notes/Introduction.md)
 
-
-<details>
-
-<summary>Introduction to Jenkins UI</summary>
-
-## Roles for Jenkins
-
-### Jenkins Administrator - Operations or DevOps Teams
-
-- Administers and manages Jenkins
-- Setup Jenkins cluser
-- Install plugins
-- Backup Jenkins Data
-
-### Jenkins User - Developer or DevOps teams
-
-- Creating the actual jobs to run workflows
-
-
-</details>
-
 <details>
 
 <summary>Docker with Jenkins</summary>
