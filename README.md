@@ -3,8 +3,11 @@ This repository contains all my work, notes, hands‑on exercises, and project f
 
 ## Notes
 [Introduction to Build Automation](notes/Introduction.md)
+
 [Introduction to Jenkins UI](notes/Introduction.md)
+
 [Docker with Jenkins](notes/Introduction.md)
+
 [Freestyle to Pipeline jobs](notes/Introduction.md)
 
 
