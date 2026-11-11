@@ -1,4 +1,4 @@
-# Intro to Build Automation
+# Introduction to Build Automation
 Build automation is a **process that automatically compiles, packages, tests, and prepares software** so developers don’t have to do those steps manually. It’s a core part of modern DevOps and CI/CD pipelines.
 
 Build automation uses tools and scripts to automatically:
