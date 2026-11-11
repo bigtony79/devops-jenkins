@@ -4,19 +4,17 @@ This repository contains all my work, notes, hands‑on exercises, and project f
 ## Notes
 [Introduction to Build Automation](notes/Introduction.md)
 
-[Introduction to Jenkins UI](notes/Introduction.md)
+[Introduction to Jenkins UI](notes/JenkinsUI.md)
 
-[Docker with Jenkins](notes/Introduction.md)
+[Docker with Jenkins](notes/Docker_Jenkins.md)
 
-[Freestyle to Pipeline jobs](notes/Introduction.md)
+[Freestyle to Pipeline jobs](notes/Freestyle_Pipeline_jobs.md)
 
+[Jenkinsfile Syntax](notes/Jenkinsfile.md)
 
+[Multibranch Pipeline](notes/MultiBranch_Pipeline.md)
 
-
-
-
-
-
+[Jenkins Shared Library](notes/JenkinsSharedLibrary.md)
 
 
 ## Projects
