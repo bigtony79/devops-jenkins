@@ -3,7 +3,7 @@ This repository contains all my work, notes, hands‑on exercises, and project f
 
 ## Notes
 
-[Introduction to Build Automation](notes/Introduction)
+[Introduction to Build Automation](notes/Introduction.md)
 
 <details>
 
