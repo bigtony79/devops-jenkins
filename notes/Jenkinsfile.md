@@ -378,8 +378,8 @@
       }
     }
     ```
-    ![alt text](images/image1.png)
-    ![alt text](images/image2.png)
+    ![alt text](./images/image1.png)
+    ![alt text](./images/image2.png)
     
 - **To allow multiple input selections (for example, deploy to 2 different systems)**
     
@@ -448,7 +448,7 @@
       }
     }
     ```
-    ![alt text](images/image3.png)
+    ![alt text](./images/image3.png)
     
 - **Another common way to use input attribute is to assign it to the environment variable within the script block**
     
